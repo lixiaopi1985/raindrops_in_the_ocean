@@ -18,9 +18,9 @@ bio:
 
 # Interests to show in About widget
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Microbes and Environment interactions
+  - Bioinformatics
+  - Web applications
 
 # Education to show in About widget
 education:
@@ -70,6 +70,6 @@ email: ''
 highlight_name: true
 ---
 
-Working on phyllosphere microbiome
+Currently I am working on boxwood phyllosphere microbiome projects.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
