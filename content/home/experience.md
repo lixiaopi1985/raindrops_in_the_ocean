@@ -38,6 +38,7 @@ experience:
           * Investigation of climate location effects on boxwood phyllosphere microbial communities
           * Examination of biochar suppressive effects on boxwood (as main PI)
         * Perform Nanopore MinION sequencing
+        * Data analyses
         * Manuscript preparation
         * Grant proposal writing and preparation
         * Extension work and presetations
@@ -56,8 +57,10 @@ experience:
         * Design experiments and conduct research
           * Soil microbiome in response to metam sodium fumigation
           * Soil microbiome in response to pesticides
+        * Data analyses
         * Build web application to predict early blight disease
         * Manuscript preparation
+        * Collaborate and asist data analyses
         * Field work
 
 design:
