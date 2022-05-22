@@ -1,0 +1,4 @@
+[submodule "public"]
+	path = public
+	url = https://github.com/lixiaopi1985/lixiaopi1985.github.io.git
+	branch = master
