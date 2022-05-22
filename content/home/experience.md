@@ -32,9 +32,16 @@ experience:
     description: |2-
         Responsibilities include:
         
-        * Conduct research
-        * Preparing manuscripts
-        * Deploying
+        * Design experiments and conduct research
+          * Characterization of microbial communities from garden soils
+          * Investigation of fungicide and antidesiccant impacts on boxwood phyllosphere microbial communities
+          * Investigation of climate location effects on boxwood phyllosphere microbial communities
+          * Examination of biochar suppressive effects on boxwood (as main PI)
+        * Perform Nanopore MinION sequencing
+        * Manuscript preparation
+        * Grant proposal writing and preparation
+        * Extension work and presetations
+        * Collaboration and data analysis assistance
 
   - title: Postdoctoral Research Associate
     company: Oregon State University, Hermiston AREC
@@ -46,7 +53,12 @@ experience:
     description: |2-
       Responsibilities include:
 
-        * Soil microbiome in response to metam sodium fumigation
+        * Design experiments and conduct research
+          * Soil microbiome in response to metam sodium fumigation
+          * Soil microbiome in response to pesticides
+        * Build web application to predict early blight disease
+        * Manuscript preparation
+        * Field work
 
 design:
   columns: '2'
