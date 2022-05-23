@@ -6,7 +6,7 @@ title: Xiaoping Li
 superuser: true
 
 # Role/position/tagline
-role: Microbiome Scientist
+role: Just curious about the world and be adventurous
 
 # Organizations/Affiliations to show in About widget
 organizations:
