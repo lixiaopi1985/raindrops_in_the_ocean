@@ -39,14 +39,14 @@ image:
 
 # Custom links (optional).
 #   Uncomment and edit lines below to show custom links.
-# links:
-# - name: Follow
-#   url: https://twitter.com
-#   icon_pack: fab
-#   icon: twitter
+links:
+- name: Follow BBIG
+  url: https://twitter.com/BoxwoodHealth
+  icon_pack: fab
+  icon: twitter
 
 # Optional filename of your slides within your event's folder or a URL.
-url_slides:
+# url_slides: BBIG_microbiome/microbiome_meeting1_Feb2021.pptx
 
 url_code:
 url_pdf:
