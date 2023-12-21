@@ -39,7 +39,7 @@ summary:
 tags: ["Arabidopsis", "RNAseq", "Oxford Nanopore Technology  (ONT) sequencing", "Defense priming", "Induced systemic resistance (ISR)", "Leaf endophyte"]
 
 # Display this page in the Featured widget?
-featured: true
+featured: false
 
 # Custom links (uncomment lines below)
 # links:

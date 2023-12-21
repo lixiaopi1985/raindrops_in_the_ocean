@@ -18,7 +18,8 @@ bio:
 
 # Interests to show in About widget
 interests:
-  - Microbes and Environment interactions
+  - Plant/Soil microbiome
+  - Host-microbe interaction
   - Bioinformatics
   - Web applications
 
@@ -59,9 +60,9 @@ social:
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`,
 # and uncomment the lines below.
-# - icon: cv
-#   icon_pack: ai
-#   link: uploads/resume.pdf
+  - icon: cv
+    icon_pack: ai
+    link: uploads/resume.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ''
@@ -72,4 +73,4 @@ highlight_name: true
 
 Currently I am working on boxwood phyllosphere microbiome projects.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
